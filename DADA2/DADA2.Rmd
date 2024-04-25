@@ -79,16 +79,23 @@ head(track)
 
 # Save seqtab.nochim as an R file
 ```{r}
-save(seqtab.nochim, file="RData/seqtab.nochim"
+save(seqtab.nochim, file="RData/seqtab.nochim.RData")
 ```
 
 # Load seqtab.nochim to start here
 ```{r}
-load('RData/seqtab.nochim,RData")
+load("RData/seqtab.nochim.RData")
 ```
 # Assign taxonomy
 ```{r}
-# download the species from database - https://zenodo.org/records/4587955
+# download the Silva species from database - https://zenodo.org/records/4587955
+taxa <- assignTaxonomy(seqtab.nochim, "silva_nr99_v138.1_wSpecies_train_set.fa.gz")
+```
 
 
 
+
+# Save taxa file
+```{r}
+save(taxa, file = "RData/taxa.Rdata")
+```
