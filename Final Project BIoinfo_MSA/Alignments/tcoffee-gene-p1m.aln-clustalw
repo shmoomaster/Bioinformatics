@@ -1,0 +1,1162 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+cox1            ATGGTA--------C----------AAAGATGATTATATTCAACAAATGC
+cox1_1          ATGAACTCTTGGTGGACTTATGTTAATAGATGGATATTCTCAACTAATGC
+cox1_2          ATGGTA--------C----------AAAGATGATTATATTCAACTAATGC
+cox1_3          ATGATC--------G----------AAAGATGATTATATTCTACAAATGC
+                ***                      * *****  ***  ** ** *****
+
+cox1            AAAAGATATTGCAGTATTATATTTTATGTTAGCTATTTTTAGTGGTATGG
+cox1_1          TAAGGATATTGCCATACTATATTTATTATTCGGATTGGTATCTGGGATAA
+cox1_2          TAAAGATATTGCAGTATTATATTTCATATTAGCATTATTTAGTGGTATAG
+cox1_3          TAAAGATATTGCTGTTTTATACTTTATCTTTGCTATTTTCTGTGGTATGG
+                 ** ********  *  **** **  * ** *   *  *   *** **  
+
+cox1            CAGGAACAGCAATGTCTTTAATCATTAGATTAGAATTAGCTGCACCTGGT
+cox1_1          TTGGATCTGTATTCTCTTTTATAATTAGAATGGAACTATCAGCTCCAGGA
+cox1_2          CTGGTACAGCTATATCATTAATTATTAGATTAGAATTGGCTGCACCAGGT
+cox1_3          CAGGTACTGCCATGTCTTTAATCATTAGATTAGAGTTAGCCGCACCAGGT
+                  **  * *   * ** ** ** ****** * **  *  * ** ** ** 
+
+cox1            TCACAATATTTACATGGAAATTCACAATTATATAATGTTTTAG-TAGTTG
+cox1_1          TCTCAATTCCTTTCTGGAAATGGTCAATTATACAATGTTGCAA-TCTCAG
+cox1_2          TCTCAATATTTACACGGCAATAATCAATTATTTAACGGTGCGCCTCTCAG
+cox1_3          AATCAAGTTTTAAGCGGAAATCATCAATTATTTAATGTCTTAG-TAGTTG
+                   ***    *    ** ***   *******  ** *       *    *
+
+cox1            GTCATGCTGTATTAATGATTTTCTGTGCGCCGTTTCGCTTAATTTATCAC
+cox1_1          CACATGGTATACTTATGATTTTTTT------------CTTCA-TTATTCC
+cox1_2          TGC--GTATTCTT--CGATGTTATA------------TTCAA-TTATAAC
+cox1_3          GGCATGCGGTCTTAATAATTTTCTT------------CTTAG-TAATGCC
+                  *  *   *  *    ** ** *              *    * **  *
+
+cox1            TGTATTGAAG--TGTTAATTGATAAACATATCTCTGTTTATTCAATTAAT
+cox1_1          TGCTTTATTTGGTGCA-TTTGGTAATTATTTAG----TACCTCTTATGAT
+cox1_2          CGTATTA-CTATTCGT-TTTAATAATAATAT-------------------
+cox1_3          GGCATTAATTGGTGGT-TTTGGTAACTATATGT----TACCTTTATTAAT
+                 *  **      *     **  ***  ** *                   
+
+cox1            GAAAACTTTACCGTATCATTTTGGTTCTGATTATTAGTAGTAACATACAT
+cox1_1          AGGTGCTCCAG-ATGTTGCTTACC-CTAGA---GTA--AATAA----TTT
+cox1_2          --------------------------------------------------
+cox1_3          TGGAGCATCAG-ATATGTCTTTTG-CAAGA---TTA--AATAA----TAT
+                                                                  
+
+cox1            AGTATTTAGATACGTAAACCATATGGCTTACCCAGTTGGGGCCAACTCAA
+cox1_1          CACATTCTGGT--TACTACCTCCTGCTCTAATGCTATTAT--TAAT----
+cox1_2          -----TAAAATACGTAAACCATATGACTAACCTAGCTAAGGCTAACTTAG
+cox1_3          TTCATTCTGAT--GTTTACCACCTGCTTTAGTATGTTTAG--TAAC----
+                     *    *      ***   **    *      *      **     
+
+cox1            CGGGGACAATAGCATGCCATAAAAGCGCTGGAGTAAAACAGCCAGCGCAA
+cox1_1          -TTCTGCATTAACA-------GAA--------------------------
+cox1_2          TGGGAACAATAGCATGTCATAAAAAGG---AAGTGATTAGTGCTTCTTGA
+cox1_3          -TTCTACATTAGTA-------GAA--TCTGGTGC-----AGG-----TAC
+                      ** **  *        **                          
+
+cox1            GGTAAGAACTGTCCGATGGCTAGGTTAACGAATTCCTGTAAAGAATGT-T
+cox1_1          --------------------------------------------------
+cox1_2          GGTAAG---TGTTACATGATTAGGTTAACAAACTTCTTACAAGTCTCTAT
+cox1_3          TGGATGAACTGTATATCCTCCATTATCATCAAT-----TCAAGCACAT-T
+                                                                  
+
+cox1            TAGGGTTCTCATTAACTCCTTCCCACTTGGGGATTGTGATTCATGCTTAT
+cox1_1          --------------------------------------------------
+cox1_2          CAGGATTACAATTTCCTCG-CATCATTTGGATGAGGTAAACTATGCAATT
+cox1_3          CAGGAC-CT-----------------------AGTGTTGATTTAGCAATT
+                                                                  
+
+cox1            G-TATTGGAAGAAGAGGTACAC--GAGTTAACCAAAAATGAATC-ATTAG
+cox1_1          ----------G--AAGGACC----TGGTGGTGGTTGGACGGTTTTAAAGC
+cox1_2          G-AATTATACGTTGAGGTTCAA--TCGTCATGAATAGATAGTTTAGATAG
+cox1_3          TTTGCTTTACATTTAACATCTATTTCATCATTATTAGGTGCTATTAATTT
+                              *    *       *                      
+
+cox1            CTTT--AAGTAAAAGTTGACATTCGGAGGGCTGTACGAGTTCAAATGGAA
+cox1_1          C----------GCA------GACAAAATTGTCTGAA-AACTCTTCTC--G
+cox1_2          CA-C--AAGCAGTGTGAAAGAGATGAAGGATCTAAATAACACATATGGAG
+cox1_3          CA-TTGTAACAACATTAAATATGAGAACAAATG-----------------
+                *                         *                       
+
+cox1            AATTAAGAAATACGGGATTGTCCGAAAGGGGAAACCCTGGGGATAACGGA
+cox1_1          ATGCGAAAAA---GTCCTCTACTC--GGAAGTAATTACTCAGTTAATT--
+cox1_2          ATACGAAAAGGGAGGGATTGACTGAAAGAGGAAACTCTTGAGTTAACAGA
+cox1_3          --------------GT-----ATGACAAT-----GCAT--AGATTACC-A
+                                                         * * *    
+
+cox1            GTCTTCATAGTACCCAA-ATTTAATTTAAATAAAGTG-----AGATACTT
+cox1_1          -------TATTTTTTAAC---TAGTAAAAA--G-ATTACT---AACTTGG
+cox1_2          GGTATCGTAGTATCGAACATTCAACAAAAATTGAATTGCTTACAAATTAG
+cox1_3          TTATTTGTATGATCT-A-TTTTCATTACAGCATTCTT-----A---TTAT
+                       **       *           *      *              
+
+cox1            TAGTA-CTTTATCTAAATTAAATGCA-AGGAAGGAAGACAGTTTAGCG-T
+cox1_1          GGAAAATTCGCCT---GGTTAA--ATCCATCAGAGACTCGTTTCTATCAC
+cox1_2          ACAATATAGTACTAATAGTAAA--CTAGAAAAGGGTACCAGTACAATAAG
+cox1_3          TATTATCATTACCTGTATTATCAGCA-GG--TGTTACAATGT-TAT---T
+                                  *             *        *        
+
+cox1            ATTTAAC--AAAGATT---AATACTACGGATTTTTCCGA-----------
+cox1_1          AATT-----------AGAAAATATT------TT---AT------------
+cox1_2          AACTAAG--GAA-CTA---AATACTTCGAATTTAATACA-----------
+cox1_3          ATTAGATAGAAACTTC---AATACTTC--ATTCTTCGAAGTAGCAGGTGG
+                *                  **** *      *                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          TGGTGACCCTGTTTTATACCAACATTTGTTTTCTATGCCATTTTATATAG
+                                                                  
+
+cox1            ----------------------------------GTTA-AATAAATTAAT
+cox1_1          --------------------------------------------------
+cox1_2          ----------------------------------ATTA-GTTCAATTACA
+cox1_3          TAATTTATGATTATAAATATAATATTAATTTATGATTATCTTCATTTAAA
+                                                                  
+
+cox1            AGAAAATAATCATAATAAACTTGAAACCA--TTAATACTAGAATTTT-AA
+cox1_1          ------------------GTTTCT-----TTTTG------GTTTA-----
+cox1_2          AAATGATAATATAAATAAGGATCATATTAA--TCAT---AACTTAATGGA
+cox1_3          AATTTAGAATTTAATCAAGATAAATTTTATTTTGAT--GAATTTAATTTA
+                                                *          *      
+
+cox1            AATTAATGTCAGA-----TATTAGAATGTTATTAATT--GCTTATAATAA
+cox1_1          ------T--AGAACAACATACT--CTTTCGGAGTGTG--TTTAAT-----
+cox1_2          CATT-ATTAAAGA-----TATTGATGTTTTAATTATA--TCTTATGATAA
+cox1_3          AAAT-ATAAAGAA-----TTTAAACCTATAAATTCTGTTCCTGATCAAAA
+                      *     *     *       *        *     * **     
+
+cox1            AATT-AAAAGT-AAGAAAGGTAATA------------------TATCTAA
+cox1_1          ----------------------------GAAGAGGTTCTTATTTAA-TAA
+cox1_2          AATC-AAAAGT-AAATCTGGTAATA------------------TAACTAA
+cox1_3          ATTTTTAGAATGATTTGTAGGATTTTTTG--------------AAGGTAA
+                                                            *  ***
+
+cox1            AGGTTC--------TAATAA--T-----ATT-ACCTTAGATGGGATTAAT
+cox1_1          ATTTTT--------TAATAG--A-----CATCCTTTTACAAGG-----GT
+cox1_2          AGGTAC--------TAATAA--T-----GAA-CTTTTAGATGGTTTAAGT
+cox1_3          AGGTTCATTTATTTTAATAAAAAGAAGTGAT-ATTTCTGTTGTTGTAACT
+                *  *          *****                *     *       *
+
+cox1            A--TTTCATATTTAAA---TAAATTAT---CTAAAGATATTAAC-ACTAA
+cox1_1          A--AAAAGCTG--------TTTTTCAT---CATCT---T-CACCATC---
+cox1_2          A--AAAAATACTTAAAT---AAATTAT---CAAATGA-ATTAGGATCTGG
+cox1_3          TCTAAAGATATAAAAATTTTAAATTATATTAAAAATA-ATTTTAATATAG
+                                       * **                       
+
+cox1            TATGTTTAAATTT--TCTCCGGTTAGAAGAGT-----TGAAATT-CCTAA
+cox1_1          AAAATTCTCTTTT--ACTC----AATGGTTAG-----TAGGATTTACT--
+cox1_2          TAGATTCAAATTC--AGTCCTATAAGAATTAT-----TGAAATT-CCTAA
+cox1_3          GAGATGTAATTTTACAATC-TAAAAAAGATATAACATATAGATG-AGTAG
+                 *  *     **     **     *                **    *  
+
+cox1            AAC--ATCTGGAGGATTTAGACCTTTA---AGTGTTGGAAATCCTA-GAG
+cox1_1          ------GATGGTGAT---GGTTG---------TTTTAGTATTTCAA-AAC
+cox1_2          ACC--AAAAGGTGGTATAAGACCTTTA---AGTATTGGTAATCCAA-GAG
+cox1_3          TACATAAAAGAAGAGAT-----ATTTATTTATTATCATTAATTTTTAATG
+                         *  *                   * *    * *        
+
+cox1            AAAAAATTGTACAA----GAAAGTATG---AGAATAATA--TTAGAAATT
+cox1_1          AAAAAATAAA--AA----ATGGCAA------------AA--ATAAATGGT
+cox1_2          AGAAAGTAGTACAA----GAGGCTATG---AGATTAGTA--TTAAATACT
+cox1_3          GTAATTTAGTATTACCTACTAGATATGGTAAATTTATAATTTTTTTAGCT
+                  **  *      *          *             *   *      *
+
+cox1            ATCTATAATAATAGTTTCTCTTATTA---TTCTCATGGATTTAGACCTAA
+cox1_1          CTCTT-ACTTTTAAATTAACACAAAA---TC--------TTTATAA----
+cox1_2          ATCTTTGATCCTAAAATATCAGAACA---TTCACATGGATTTAGAATAAA
+cox1_3          AAATTAAATGAAAAATTATTAAAAAATAATGAACCTATAATTATTTTAAA
+                   *    *   *   *     *  *   *          ***       
+
+cox1            CTTATCTTGTTTAACAGCTATTATTCAA--TGTAAAAATTAT----ATGC
+cox1_1          ---------------------TTATAGA-------ATTTTAT----ATT-
+cox1_2          CCATAGTTGTCATACAGCTG-TATGAGA--AGTAAGGAATAT----ATTC
+cox1_3          AAATTATTGTAAATTACCTA-CTTTAAATGATTATTGATTATCTGGATTT
+                                           *           ***    **  
+
+cox1            AATAC-------TGT--A-ATTGAT----TTATTAAAGTAGATTTAAATA
+cox1_1          -------------------------TTATTAAGAGAA----ATTTA----
+cox1_2          TCCAA-------AGT--AAATTGAT--T--TGTAGAAGTCGATTTAAAAA
+cox1_3          ACTGATGCTGAAGGTTGT-TTTGATATTTCTTTAAAAGATAATAAAAATA
+                                                   **    **  *    
+
+cox1            A------ATGCTTTGATACAATTCCACATAATATGTTAATTAATGTAT--
+cox1_1          ------GG--TATTGGTTCACTTT-----------ATAAAGAATC-----
+cox1_2          A------ATGTTTTGATACAATTCCTCATGAATTAATTATGAATCAAT--
+cox1_3          CACCTAGATTTTTATATGCATTAAGTCAAAAACATATTGTTAATAAATAT
+                            *   * ** *              *    ***      
+
+cox1            -TAAATGAGAGAATCAAAG------------ATAAAGGTTTCATAGACTT
+cox1_1          --------------------TTCAAC------------TAA--TACAG-T
+cox1_2          -TAAAAAAATATATTCTTG------------ATAAAGCTTTCTTAGATTT
+cox1_3          GTATTAGAACATATTTTAAATTTATTTATTGATAAATCTAATACTAATTC
+                                                      *       *   
+
+cox1            ATTATATAAA-TTATTAAGAGCTGGATATGTTGATA--------------
+cox1_1          AATATATAGA-TTAAGAAGAAGAGAGCATCTTAA----------------
+cox1_2          AATATATAAA-TTATTAAGAGCTGGTTATATTGATA--------------
+cox1_3          ATTATATAACATTAA-------------TAGTGAAAAAAATATTGGTAAA
+                * ******   ***              *  * *                
+
+cox1            -------AAAATAATAATTATCATAATACAACTTTAGGAATCCCTCAAGG
+cox1_1          ---------AAAG---------ATTATAGATA----------TTT--TTG
+cox1_2          -------ATAAAGGTATATTCCATAATACAAAAGTGGGTGTACCTCAAGG
+cox1_3          GTTTATTCTAATTCTAAAGATGATAATTGACAATT--ATGAATTTC-AGG
+                         **           ** **  *              *    *
+
+cox1            TAGTGTTGTCAGTC-CTATTTTAT-------GTAATATTTTTTTAGATAA
+cox1_1          ATCAATTC-----C-CTCTTTTAA-------CTAAA-AAATATTGGGATT
+cox1_2          ATCAATTGTTAGTC-CTTTATTAT-------GTAATGTAGTATTAACATT
+cox1_3          ATTAAATAATTGTATTTTTATTTTAAATTATTTTAA--AGAATATCCTTT
+                      *         * * **          * *       *       
+
+cox1            ATTAGATAAATA-TTTAGAAA-----ATAAATTTGAGAATGAATTCAATA
+cox1_1          ATTATTTGTTTA-AAA----------AAGCATTCTT-----AATTTT--A
+cox1_2          AGTAGATGATTG-AATAG--------AAATATTTATGAATCAATTTAATA
+cox1_3          ATTATCTGATAAATCTAATAGTTTAGATAAATTTATT----CATGTAATA
+                * **  *                   *   ***         **     *
+
+cox1            CTGGAA---A--TATGTCTAA--TAGAGGTAGAAATCCAATTTATAATAG
+cox1_1          GAGG----------ACGCTAA------TCTAAAT----TCTTTTGAAA-A
+cox1_2          AAGGGG---AAAGAAGAAAA----ATAACTAAAG----AATATAGAAA-A
+cox1_3          AATTATTATAAACAAAATAAACCTTTAAATGAAG----AACAAAAATT-A
+                                   *         *  *            *    
+
+cox1            -TTTATCATCTAAAATT-TATAGATGTA-----AATTATT-----ATCTG
+cox1_1          AAATAG--------------------TA-----AACTA-----------G
+cox1_2          -TATAGTAGAC-AGATT-GAAAAAGCTA-----AACTATT-----TAGTG
+cox1_3          -TATATTAAAA-AAATATCTAAACCCTGCGCGACATCACCCGACCCTCAT
+                   **                     *       *  *            
+
+cox1            AAAAATTAAAATTG------AT-TAGATTAAGAG-ACCATTAC-CAAAGA
+cox1_1          AAGAGATCAGAATA------GA--------GAAAAAGTCTTTA-AAACAA
+cox1_2          AAAGAATTAGATTA------CA-AAAATTAAGAAAAGCATCTG-GAACTG
+cox1_3          AAAGGGTTGGGTGAGTCGCGCAGGGAATTAATTAATAAATAATCATATTT
+                **    *                                *      *   
+
+cox1            A--ATATGGGATCTGATAAAAGT-TTTAAAAGAGCTTATTTTGTTAG-AT
+cox1_1          TATTCTCCAG---T-----TAAT-TTAGA------AAAATATTTAA---C
+cox1_2          TATTTATCATAAATGATCCGAAT-TTCAAAAGGATGAAATATGTTAG-AT
+cox1_3          TA-TTAGTATAAATAAAA--AATATTGAAACAAAGGAAATAGTTTAACTT
+                             *      * * **  *        * *   * *    
+
+cox1            ATGCTGATG-------ATATTATCAT--TGGTGTAATGGGTTCTCAT---
+cox1_1          AAAGTCTTG-----------GTTAAT--TGGATTTATTGAAGCAGAAGGG
+cox1_2          ATGCTGATG-------ATATATTAAT--TGGAGTAATTGGTTCCAAA---
+cox1_3          AAGTTAATTAGAAAAGATATAACAATGTTGATATGAAA-AATAAAAA---
+                *   *  *                **  **   * *         *    
+
+cox1            -AATGAT----TGT--AAA-AATATTTTAAACGATATTAA----TAACTT
+cox1_1          AG---CTTTTAT------TTA---CTACAAAAAAGCCCTG----TAAGAA
+cox1_2          -GCTGAT----TGT--ATT-ATAATTAAAGAAGAATTAAG----TAAGTA
+cox1_3          -GATTATA---TCTCTCTTAATATATATATATAAATTAAGAGACTAAATA
+                      *    *        *    *  * *  *          ***   
+
+cox1            CTTAAAAG-AAAATTTAGGTATGTCAATTAATATAG-ATAAATCCGTTAT
+cox1_1          T-------------------------------------------------
+cox1_2          CTTA---G-ACTCTTTAGGTTTAACAATAAATAAGG-ATAAAACCTTAAT
+cox1_3          TTTA---TTATTCTCTTATTCGGACACCATCCAAGGGATT-TA-------
+                                                                  
+
+cox1            TAAACATTCTAAAGAAGGAGTTAGTTTTTTAGGGTATGATGTAAAAGTTA
+cox1_1          --------------------------------------------------
+cox1_2          CACT----------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            CACCTTGAGAAAAAAGACCTTATAGAATGATTAAAAAAGGTGATAATTTT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ATTAGGGTTAGACATCATACTAGTTTAGTTGTTAATGCCCCTATTAGAAG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            TATTGTAATAAAATTAAATAAACATGGCTATTGTTCTCATGGTATTTTAG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            GAAAACCCAGAGGGGTTGGAAGATTAATTCATGAAGAAATGAAAACCATT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            TTAATGCATTACTTAGCTGTTGGTAGAGGTATTATAAACTATTATAGATT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AGCTACCAATTTTACCACATTAAGAGGTAGAATTACATACATTTTATTTT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ATTCATGTTGTTTAACATTAGCAAGAAAATTTAAATTAAATACTGTTAAG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AAAGTTATTTTAAAATTCGGTAAAGTATTAGTTGATCCTCATTCAAAAGT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            TAGTTTTAGTATTGATGATTTTAAAATTAGACATAAAATAAATATAACTG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ATTCTAATTATACACCTGATGAAATTTTAGATAGATATAAATATATGTTA
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            CCTAGATCTTTATCATTATTTAGTGGTATTTGTCAAATTTGTGGTTCTAA
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ACATGATTTAGAAGTACATCACGTAAGAACATTAAATAATGCTGCCAATA
+cox1_1          --------------------------------------------------
+cox1_2          ------------------------------------TGTGC-TAGTAGTA
+cox1_3          -CCTTTTTTA---ATACCCCCCCC---------ATATCTTCTTCCCAGCT
+                                                                  
+
+cox1            AAATTAAAGATGATTATTTATTAGGTAGAATGATTAAGATAAATAGAAAA
+cox1_1          -------------AAT-TCAT-GGGTT--TG-----AGAT---TA-----
+cox1_2          AACCTGC---TA-GAT-TTTT-AG-GTTAT-----GATAT---TTC---A
+cox1_3          AAGCTGA---TAAGAAGATAT-GGGGAGAA-----GAGATAAATAT---A
+                                    *  *            * **   *      
+
+cox1            CAAATTACTATCTGTAAAACATGTCAT------TTT-AAAGTTCATCAAG
+cox1_1          C----TCAAAA-TTATG--AACAA-CCCCTACTT----------------
+cox1_2          GTAACTCCTTA-TAGTA--AAGAA-CC------TACAGTAACAAAAC---
+cox1_3          CTATTTTCTAG-TATTATATATAT-AT------TAT-ATAATGCAAC---
+                     *      *       *            *                
+
+cox1            GTAAATATAATGGTCCAGGTTTATAATAATTATTATACTATTAAATATGC
+cox1_1          -------------------------------------------GCTCAGA
+cox1_2          -----ATTT-----TCC-ATC---GAGAACT-------------ATTAGA
+cox1_3          -----ATTGGTGGTACG-GTC---AACAATT------------TCTCAGA
+                                                             *  * 
+
+cox1            G-TTAAATGGAGAGCCGTATGATATGAAAGTATCACGTACGGTTCGGAGA
+cox1_1          TTTCAGAGTTCCTATT----------------------------------
+cox1_2          T-CTAGACATCCTACTAGAATT----ATTTTAA-ATGCTCCTATC-----
+cox1_3          T-TTAGACCGTCGGTTATAATATATATAATTAT-ATATTCTGATCG----
+                    * *                                           
+
+cox1            GGGCTCTTTTATATGAATGTTATTACATTCAGATAGGTTTGCTACTCTAC
+cox1_1          --------------------------------------------------
+cox1_2          --------CTAGA-TATTGTT----------AATAGAT--TA--------
+cox1_3          ---C-----TACA-GACTGCT-----------------------------
+                                                                  
+
+cox1            TCTTAGTAATGCCTGCTTTAAT-----------TGGTGGATTTGGTAAAG
+cox1_1          --------------------------------------------------
+cox1_2          -ACCATTAATGGTTTCTGTAAAAATAATAAAAATGGTAGAGTAGG-----
+cox1_3          --TCACCAATGGGTGATATAATAATATTGCTTAATGTACAGTCGG-----
+                                                                  
+
+cox1            ATAAAAATATGAAAGTAATAATAATAA-------TCAAATAATAAAAAAT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------TTTTCCTACAAGAGTTGGTAGATG
+cox1_3          -----AATCACTTATTAATAATAAG-G-------TCATATATTATATATG
+                                                                  
+
+cox1            AAATA-ATATAATAGTTTTAATCTAAAATAA-AATTATGATAATTTAGAA
+cox1_1          ----TAATTCTCAA--ATC---------------TC------ACCAAAAA
+cox1_2          ----AATCTATGAAGAACCTA-------GACTAATT------ATTAATAA
+cox1_3          AGATATATATTATAGAGTCTACCCG---TGC-TATT------ATCAAAAA
+                             *                    *       *   * **
+
+cox1            TCTTATTTAGTTGAATTAATTGAAGGTGATGGAACTATTCTAGTTCAAGA
+cox1_1          TAAAATC-----A-A-------AAAA------------------AAA---
+cox1_2          T--TTTTTAGC-TAT-------TGGATATGGT-AT--TT-TAGGTTATTA
+cox1_3          TAATATTTGGG-GAA-------AAGATAATAT-ATTATT-TAGATTTGGA
+                *    *                                            
+
+cox1            TTCATTAACAAAAAGTAAACAAAAAAATATAGATCTATAATTATTCTAAT
+cox1_1          TTCCTTA-------AT-----------T--AC-----AAATTATTCCT--
+cox1_2          TAAATTA-------GCAAC----TAA--TTATAAT-ACATTGAAACATAG
+cox1_3          TTCTTTG-------GTCACCC-CGAAGTTTATATT-TTAATTATTCCTGG
+                *   **                        *       * * *  *    
+
+cox1            ATTAAAATTATAATATTTTTAATTAGCTAATTATTTATATAATTTAATTA
+cox1_1          ----------------------------TATCA---ACTAGTTCAAA--A
+cox1_2          ATT--------ATGATTC-ATCTTATTCTATTC---ATGTGTATTAA---
+cox1_3          ATTCG----GTATTATTT-CACATATCGTATCA---ACTTATTCTAA--A
+                                             **     *        **   
+
+cox1            AATGTGGTAAAGTATATAAAAAATTAATTGTAATTATGTATTATGACTTA
+cox1_1          GAA--------------------AGAATGTTA----TTT-------CT--
+cox1_2          ----CATTAG--CTGGTAA-ATATAGAT--TA----GGTACCATAAG--C
+cox1_3          AAACCAGTAT--TCGGTGAAGTATCAATGGTA----TATGCTATGGCTTC
+                                          **  **      *           
+
+cox1            TTTATGATTTAAAA---GGTGTATATACATTATTAAATATTATTAATGGA
+cox1_1          -----------------TTCATCTTATTTTGA------------AAATTG
+cox1_2          AAA----ACTATTAAAAAAT------------TTGGATTTAA----TTTA
+cox1_3          AATT-GGATTATTA---GGTTTCTTAGTATGATCACATCAT----ATGTA
+                                                                  
+
+cox1            TATATAAAAACACCTAAATATGAAACATTTGTAAGAAGTGTTTAATTTAT
+cox1_1          TTT--TAAAGGAG-TAAAA-----TC----A---TTAGAATTTA----AA
+cox1_2          AGA--TTTAG-----AGAT-----GAAAATA---ATAAAG-TTATTGCAG
+cox1_3          TAT--TGTAGGAT-TAGAT-----GCAGATA---CTAGAGCTTATTTCAC
+                        *      * *                  *    ***    * 
+
+cox1            AAATAATTATATTAATTCTCCTTTCGGGGTTCCGGCTCCCGTGGCCGGAA
+cox1_1          A-T--------------------TTGGTCTAGATCTTTACG--TAA-AAA
+cox1_2          A-GTTTCTT-AGAGATTGT-----TT----------------TGATAAAA
+cox1_3          A-TCGGCTACAATGATTAT-----TGCAATTCCTACA---GGTATTAAAA
+                *                                               **
+
+cox1            CTCCGTAACTATAAAAATTCATCTATCTTATGGGATGAAGACTAAATAAT
+cox1_1          ----TTATAATTTTGA-----ACA--GCTTT--TAAGAGC----------
+cox1_2          TTGT-ACAT-ATTAAGA---AC-----CATGGAC---AATA-------CT
+cox1_3          TTTTCTCATGATTAATA---AACT--CCTTTAGCAAGAGTATTAA---GT
+                           *                         *            
+
+cox1            AAATAAAAAAATATAAATAATATTAAAATTAAACCATTAGATATATTAGA
+cox1_1          --------------------------------------------------
+cox1_2          TGTTCAATAA------CAAAGATAG---------------TAATATTA-A
+cox1_3          TGATCAAAAAATATATAAAATATAT---------------ATATATTA-A
+                                                                  
+
+cox1            TATTGGTTCAAACGCTTAATTAGATGGTATGACTGATGCGGATGGTAATT
+cox1_1          ---TAGAGATTTAATTAGAAAATTAAAAAATAAATATTCCCGAGGA---T
+cox1_2          CCCTT-TCG------AATATATTGATCAAATAA-AATA---TAGATT---
+cox1_3          TAATAA-TCATAATAATAATA--ATAATAATAATAATCCCCGCGGTCAGT
+                   *              *         *  *   **      *      
+
+cox1            TTTCTATTAATTTAATAAATAGTAAAATCGTTCTAATAAAGCAATGCCTT
+cox1_1          CAC-----------------AACAT--C-CAAAGGATAAAT-A-AAAT--
+cox1_2          -ACCAA---------CTGCTAA------AGCTGCATTAGAT-A-AAGCTT
+cox1_3          CACCGGTTA------TCGGTAACATGACCGCGGGGATAAAT-A-AGATTT
+                                    *               ** *  *       
+
+cox1            ATTATTGTTTATAATTAAAACTTATTATTACTAAAAATAATAATAATATT
+cox1_1          --------------------------------------------------
+cox1_2          GTG--------TAGT-A-----TGTAATTCT-AC---AGATAATGTAGAA
+cox1_3          ATA-------ATAAT-AATTCTTATAATTCT-TA---TAATAATAATAAT
+                                                                  
+
+cox1            AATTTATCATATTTTAATATTATGTTTATAATTGCACTATATTTTAATGT
+cox1_1          --------------------------------------------------
+cox1_2          ATA-CATCATATTAAGAAATTA-----ATAAG-----------AGGG---
+cox1_3          AAT-TATTATAATAAAAAATTA-----ACAATT---------TATGGTAC
+                                                                  
+
+cox1            TAATTTATATAATAGAGAACGTAATTTAAATTTACAATCTTCTCTAAAAA
+cox1_1          --------------------------------------------------
+cox1_2          AAATTGATAA---------------TAAAAGATT--------ATATGTAT
+cox1_3          TAATTTATAT---------------TCAAATTTA--------ATAAATAA
+                                                                  
+
+cox1            AGTACATATAACT-ATATTATAGTT-------------------------
+cox1_1          --------------------------------------------------
+cox1_2          GGA--AGA--ATAATTACTATAAATAGAA--AACAGGTTCCATTATGTAA
+cox1_3          AGA--ATATAATA-ATACTATAATAATTAAATATATAATTAAAATTCCAA
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          AAATTGTCATAT-TAAAGTTCATCAAAATAATAATAA-ATATGGTCCCGG
+cox1_3          ATAATATTATATATATAATTAATG-GAATTTTATTAACAGATGGTTGA--
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          TTTATAATATAATTAG-----TAATAATATTGTAT-GGAGAGCCGTATGA
+cox1_3          -ATTGAATATAGTTCAAAAAAT-ACATTAATTAATAGTAGATTAAAATTT
+                                                                  
+
+cox1            --------------------------------------------ATAAAG
+cox1_1          --------------------------------------------------
+cox1_2          AAGGAAACTTTCACGTACGGTTCGGGAAGGACTCTTTTATATGTG-----
+cox1_3          AAACAAACTTTAAAACA--AGTAGAATA----TGTTTTATATGTA-----
+                                                                  
+
+cox1            TAATATTAGCTAATCTATATAAAAATATTAAAGTTATAAAATACTTTAAT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AAATATTTTTTATTATCATCTAAACATTTAGATTATTTATATTGATTTAG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ATTAGTTATTTTAATTTATAATGAAGGTCAAAGTATAAACTTAATGGTAG
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            TTAAGAATTAGGTCTAAATTTAC---------------------------
+cox1_1          --------------------------------------------------
+cox1_2          ----------------------A-AAACAGATAAATT--------TGTTA
+cox1_3          ----------------------TATAATAAATTAAATCATTATTGTGTAA
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          ---CTTCATTTTTAGTCGTA-GGCCAT---GCTATTTTAATGATTTTCTT
+cox1_3          GTCCTCCAAAATTAATTAAAACACCCCGCGGCTCCTCCCCTGGTAATCCC
+                                                                  
+
+cox1            -------------------------------GTAAAAATTATAATAAAAC
+cox1_1          --------------------------------------------------
+cox1_2          TAT--AG--TTATGCCGGCTTTAATTGGAGGG------------------
+cox1_3          AGGGGAGGAGTCCGCGGGGAAAGATTAAAAGG------------------
+                                                                  
+
+cox1            TATAACTACATTTAATTAATTAGATAAAAAAAATACATATTTATAAAATA
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AATAATATATTTTCTATTTTATGGTTTTTATTATTACTTTTTCTCCACCA
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AACTTGTTAATAATATAATAACAAGTCAATAATTTCGTAATATA-AAGAT
+cox1_1          --------------------------------------------------
+cox1_2          -------------------------T-TC-GGTA---AATTATATCAATT
+cox1_3          -------------------------T-AA-AATT---TATTATG-GAGTT
+                                                                  
+
+cox1            GTAACGAAATTATTAATAAAATAAGTTGCCGTAATATATTGTAAAATATA
+cox1_1          --------------------------------------------------
+cox1_2          GCCGT--------AATATATTAACAATAT-------ATTT----ATAACA
+cox1_3          GAAAT--AACTACTATAGCTTTACCTTGTTTTACTAAATT----AAGACA
+                                                                  
+
+cox1            TTATTATTACAACACTAT-ATGCGGGA---AAATCCTAAAGTTATAATAT
+cox1_1          --------------------------------------------------
+cox1_2          TCA-----------CTATA-TGCTGG-----A-------AATTCTATTAA
+cox1_3          TCATTT--------TTATAATGGTAGAGTAAA-------AATTATACCAA
+                                                                  
+
+cox1            AATA-TTTTGTGGAAATTCAATTAAGTTATGAATGTACTATAATATTAAA
+cox1_1          --------------------------------------------------
+cox1_2          -ATATAATTATAAT-AA-----TA-ATTATATAGC-C-------CCCCCC
+cox1_3          -ATG-ATTTATATG-ATT-TATTAAATTATGAATC-A---TT--AGCTCA
+                                                                  
+
+cox1            AATTATTATAA-ATAATTATC---CTCATTAATTATAATTATAATTATAA
+cox1_1          --------------------------------------------------
+cox1_2          CTTTATGGGGGGGGGGGGGCACGGATGAGATAATCA-GCAGGAA------
+cox1_3          TATTATTATAG-GAGATGGT-----TCATTTAATAAAGGTGGAG------
+                                                                  
+
+cox1            TTCTAATTATAATATAAAAAGTTAGGATAAATATGGACAATCCGCAGGAA
+cox1_1          --------------------------------------------------
+cox1_2          ------ACGCTA-ATAAT-AATTATAA---TCTTAATCTATAA-TTTAGA
+cox1_3          ------GTATTACATTA-AATTTACAA---TCATATACTATT---AAAGA
+                                                                  
+
+cox1            ACCAAATAATAATAGGAATATATATTAAGATATATATATATAT-ATTTAT
+cox1_1          --------------------------------------------------
+cox1_2          TATAATAAATTATAATAAAAT--T--ATTAATTAGGT----TC--CTCAG
+cox1_3          ATTAATTTATTTTATTAATAT--TTTAAAAATTAAAT----TTAATTTAG
+                                                                  
+
+cox1            ATATATTCTTTTTTTTTTTCAAT--ATATTATATTTAGTATTATTGGAAG
+cox1_1          --------------------------------------------------
+cox1_2          A----GACTT---TTA-----ATAAAAATTAGAT-A--TTTTATTTATG-
+cox1_3          AT-TGTACTT---TAC-ATAAACATAAATCATATTA--TGTTATTTATAT
+                                                                  
+
+cox1            AGGGGGTAATATATATTTAATTATTACGTAGGATCCTCAGAGACTACACG
+cox1_1          --------------------------------------------------
+cox1_2          ---AAATAAAAT--AATG------------------------------CG
+cox1_3          T-AAAGTTAAATCTATTAAAT-----------------------------
+                                                                  
+
+cox1            TGTTGCACCCATTATATTA-ATATTATATTATATTTTAT-TATAATGGGT
+cox1_1          -------------------------------------------AA---GT
+cox1_2          TGATGCATT--TTATATAT-ATA-TATATTAT-----A--TATAA---AT
+cox1_3          TATTATATCC-TAATATTAAAAATTATATTAT--TCCATCTATAA---AA
+                                                           **     
+
+cox1            TGAAGATAT-AGTCCAAAT-ATAATTGAAAGATTATAATAAAAATGAACT
+cox1_1          TCAAGGTAT-AGTCCGATC-AAGATTGAGAAATCT---------------
+cox1_2          TGAAGATAT-AGTCCTAATTA-TATAGAAATAT-ATAATATAAATGAATT
+cox1_3          TATAAATTTGAATATAAATTATTACAAAAATAT--------------GAT
+                *  *  * * * *   *   *  *   * * **                 
+
+cox1            ATTTATTACCATTAATGATTGGAGCTACAGATACAGCATTTCCAAGAATT
+cox1_1          ---TGTTAACTAAAATGAT-----------ATCCACCACTATCA------
+cox1_2          ATATGTTACCCTTAATGATTGGTGCAACTGATCTAGCCTTTCCTAGAATT
+cox1_3          AAATATAATAATAAAT----------------AATATAATCCCGCGGATT
+                   * * *     ***                       *  *       
+
+cox1            AATAACATTGCTTTTTGAGTATTACCTATGGGGTTAGTATGTTTAGTTAC
+cox1_1          -----------------AGTATCACTT-----------------------
+cox1_2          AATAATATTGGTTTTTGATTATTACCAATAGGATTAGTATGTTTAGTAAC
+cox1_3          CATAATAT--------GAA-----TCCGCGGGGT-AATATATATAA----
+                                 *                                
+
+cox1            ATCAACTTTAGTAGAATCAGGTGCTGGTACAGGGTGAACTGTCTATCCAC
+cox1_1          ----CTCATAG-------------TGGTCCA-------------------
+cox1_2          TTCTACATTAGTAGAAGCTGGTGCTGGTACTGGTTGAACTGTATATCCAC
+cox1_3          ----TCTAT---ATAAT---------ATAT--------------A--TAT
+                        *                  *                      
+
+cox1            CATTATCATCTATTCAG--GCACATTCAGGACCTAGTGTAGATTTAGCAA
+cox1_1          --------GCTATT--------------------------GATCTAGCTA
+cox1_2          CTTTATCATCTATTCAA--GCTCATTCTGGTCCTAGTGTTGATTTAGCTA
+cox1_3          AAT--TTATATATTAAGAAGCAAACTCGAG---------------AGAAA
+                          ****                               **  *
+
+cox1            TTTTTGCATTACATTTAACATCAATTTCATCATTATTAGGTGCTATTAAT
+cox1_1          TTTTAAGTTTACAATTAACTGGTATTTCATCAACATTAGGATCAGTAAAT
+cox1_2          TTTTTGCATTACATTTAACATCAATTTCATCATTATTAGGTGCTATTAAT
+cox1_3          TC----CTATATATATAAATTAGAATTTA----TA-TAGG-GCAAT----
+                *        ** *  ***     * ** *     * ****  *  *    
+
+cox1            TTCATTGTAACAACATTAAATATGAGAACAAATGGTATGACAATGCATAA
+cox1_1          TTAATAGCGACAATGATTAATATGAGAGCTCCAGGATTAAGTTTATATCA
+cox1_2          TTTATTGTAACAACTTTAAATATAAGAACTAATGGTATAACTATACATAA
+cox1_3          --CGTCG-AACTAAATTATATATAAGAAATTATA-TATATAAAAGCGTAG
+                    * *  ** *   *  **** ***          *         *  
+
+cox1            ATTACCATTATTTGTATGATCAATTTTCATTACAGCG-TTCTTATTATTA
+cox1_1          AATGCCATTATTTGCATGGGCTATAATGATTACATCA-ATTCTATTACTG
+cox1_2          AATGCCTTTATTTGCATGAGCTATTTTTATTACAGCA-TTCTTATTATTA
+cox1_3          ----------------AGATCAGATGC--TTCTGGTATTTCTAAGTAATA
+                                 *  *        **        *   * ** * 
+
+cox1            TTATCATTACCTGTAT-----TATCTGCTGGTATTACAATGTTATTATTA
+cox1_1          CTTACTTTACCAGTTT-----TAGCAGGTGGATTATTTATGTTATTCTCA
+cox1_2          TTATCATTACCTGTAT-----TATCAGCAGGTGTTACAATGTTATTATTA
+cox1_3          T----ATTCCCCGCAAAATATTTCCTGCAGGAA-----------------
+                      ** ** *        *  * *  **                   
+
+cox1            GATAGAAACTTCAATACTTCATTCTTTGAAGTAGCAGGAGGTGGTGACCC
+cox1_1          GATAGAAATTTAAATACTTCATTCTATGCTCCTGAAGGTGGTGGTGACCC
+cox1_2          GATAGAAACTTCAATACTTCATTCTTTGAAGTAGCTGGAGGAGGGGATCC
+cox1_3          -----ATATTTTGCGGGTCTATTATATGAA-TA-CATAAGG-AATGATCC
+                     * * **      *  *** * **           **    ** **
+
+cox1            AATCTTATATGAGCATTTATTTTGATTCTTTGGTCATCCAGAAGTATATA
+cox1_1          TGTACTTTACCAACATTTATTCTGGTTCTTTGGTCATCCAGAGGTCA---
+cox1_2          TATTTTATATGAACACATTTTTTGATTCTTTGGTCATCCCGAAGTATATA
+cox1_3          AATGG--AACTAGTAATAGTTTTGAAGCAAT--CCTTCAAATAATATATA
+                  *     *  *  *    ** **   *  *   * **      *     
+
+cox1            TTTTAATTATTCCTGGATTTGGTATTATTTCACATGTAGTATCAACATAT
+cox1_1          ATTTAAT-AGGCCTC-------------TTAAC--GTTG----C-TATAT
+cox1_2          TTTTAATTATCCCTGGATTTGGTATTATTTCACATATTGTATCAACATAT
+cox1_3          TATGTATTATATATAT----ATTATCCTAATATATATAGTTACCCAATAT
+                  *  ** *    *                 *    * *       ****
+
+cox1            TCTAAAAAACCTGTATTTGGTGAAATTTCAATGGTATATGCTATGGCTTC
+cox1_1          GCTGGAA--C---TACTTG---AAAAAT-----------AC---------
+cox1_2          TCTAAAAAACCTGTATTTGGTGAAATTTCTATGGTATATGCTATAGCTTC
+cox1_3          CCTCCAAA-----TATTTGGAGGATA----TTGGGAT-------------
+                 **  **      ** ***    *                          
+
+cox1            AATTGGATTATTAGGATTCTTAGTATGATCACATCATATGTA--------
+cox1_1          -------------------TAGATAAGTGTTTTTGTTTTAAA--------
+cox1_2          TATTGGTTTATTAGGTTTCTTAGTATGATCACATCATATGTA--------
+cox1_3          -----------------TAATAA---TAAATAATTATATATAAATTTAAC
+                                                 *  * *  *        
+
+cox1            ----TATTGTAGGATTAGATGCAGATACTA-----GAGCATATTTCCTAT
+cox1_1          ----TACTCCAAGA-------AAAACACCAGATTAG--------------
+cox1_2          ----TATTGTAGGATTAGATGCTGATCTTA-----GAGCTTATTTCCTTA
+cox1_3          TAGCTATTATAATATTTATTATAAATATTA-----TAA-AT-----GAAT
+                    ** *  *  *          *    *                    
+
+cox1            CCGCACTGATGATTATTGCAATTCCAACAGGAATTAAAATCTTTTCTTGA
+cox1_1          ---------TGTTTATTT------TTATAG---TAAAAATGTT-------
+cox1_2          GTGCTACTATAATTATTGCTATTCCTACTGGTATTAAAATTTTTTCATGA
+cox1_3          CTG---TGATGAT--------------------TTAAGGTTAA--AAATA
+                         *  *                    * **  *          
+
+cox1            TTAGCCCTAATCTACGGTGGTTCAATTAGATTAGCACTACCTATGTTATA
+cox1_1          -------AAAACA-------ATTAAGTATATCAGCAG-------G-----
+cox1_2          TTGGCCACTATTTATGGTGGATCAATTAGATTAGCTCTACCAATATTATT
+cox1_3          AGAGCAACAATTTATGGTGGATCAATTAGATTAGCTGTACCTATGTTATA
+                         *           * ** ** ** ***               
+
+cox1            TGCAATTGCATTCTTATTCTTATTCACAATGGGTGGTTTAACTGGTGTTG
+cox1_1          --TAA------------CCTTTTGAATAA-GGG------A---------A
+cox1_2          TGCTATTGCCTTTTTATTTTTATTCACTATAGGAGGTTTAACAGGAGTAG
+cox1_3          TGCTATTGCTTTCTTATTCTTATTCACAATTGGTGGATTAACAGGAGTAG
+                    *              ** *  *  *  **      *          
+
+cox1            CCTTAGCTAACGCCTCATTAGATGTAGCATTCCACGATATTAATTTAATA
+cox1_1          CCTCAG-------------AGACT--TTACGCAACGAAATCA------CA
+cox1_2          CTTTAGCTAATGCATCATTAGATGTAGCTTTCCATGATA-----------
+cox1_3          CATTAGCAAATGCATCATTAGATGTAGCATTCCATGATA--A----AATA
+                * * **             ***         * * ** *           
+
+cox1            AGTGTCGTGCTTAAAATTCACTAAAATAATATATAATAAATTATAATAAA
+cox1_1          ACAAAAAAAGT-------------------TT-CTATTCATCTCCCTAAA
+cox1_2          --------------------------------------------------
+cox1_3          AATATTA------TAATT-ATTATA-TTATATATTTCATATATTTATACT
+                                                                  
+
+cox1            TATATAAAAAAAATAAAAAAAAATAAAAAAAATTAAT---ATCTTATGAT
+cox1_1          CACTTA----------------AAACCAGCTAATGATTCTCAATTTGGTC
+cox1_2          --------------------------------------------------
+cox1_3          TAT--CCCTTCTCTAATGGGAAATACTGTA-ATTTATATAATCCTACCA-
+                                                                  
+
+cox1            TAATTTTATATAAATAAAAATTTATTAAATATTATTGGTTATATATATAT
+cox1_1          ACTAT----------------TTAGCAGGTTTAATTGAT---GGTGATGG
+cox1_2          --------------------------------------------------
+cox1_3          -CATTTTATAAAATTAATAATATTTTATACTCTAT---------------
+                                                                  
+
+cox1            ATATATTAATAATAAAAAAATATATATATATATATAGCTAACGGGGAAAC
+cox1_1          TCATTTTAGTAGTAAACAACAA-----TTAATTATTGCTT-----TTCAC
+cox1_2          --------------------------------------------------
+cox1_3          ---------------TAAAATATATA-ATA---------TTAATAATAAT
+                                                                  
+
+cox1            TCTTATAATTATTATTTATATAATAAATAAGACAATCCCGTGATAACTTT
+cox1_1          TC------------TTTAGATAT--------ACAATTAGCTTATTATATT
+cox1_2          --------------------------------------------------
+cox1_3          ACTAATAAT-ACTA-----ATAAT----AA--TAACCCCGCGG--ACTC-
+                                                                  
+
+cox1            AATATATATATATTATATATTAAAGTATTGTAGAGACTAAACGTGAATGA
+cox1_1          AAAAAACA-----AATAGGTTATGGTATTGTA---------CGTAA----
+cox1_2          --------------------------------------------------
+cox1_3          ATCA--------TC--CTACGAAAGTAGAAT-GAGAGCCGCGGGGAA---
+                                                                  
+
+cox1            TTTTAATATTATTTAAATATTAAAATTAA--GAGATAGTCCAATCTTATA
+cox1_1          ----------AATTAAAGATAAAAATG-------CTATT-----CTTT-T
+cox1_2          --------------------------------------------------
+cox1_3          TAGTAATAGTA-----ATAGTAATAGTAATAGTGATAGT-----------
+                                                                  
+
+cox1            TGTAAATATAAGTTAATAC-------------------------------
+cox1_1          TA----TAATAGCTAACTC-------------------------------
+cox1_2          ------------------CATTAAAACAACAAAAAAAATATAAAAAAATA
+cox1_3          ---A-ATATTAA-TAATAC-------------------------------
+                                  *                               
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          CAATTATTAAAAAATAAATTACAATATAGAAATTATAGTCTTAATAAATT
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------------------------------------
+cox1_2          ATTTAATAAAGATGATTATATTAAGTCTTTTTTTGTCGGTTTATTTGATG
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            -----------------------CAAAAAAAAAATAATATTATTTTGACT
+cox1_1          -----------------------TAAAGG-------------AATTGA--
+cox1_2          GAGATGGTAGTATTCAAGTTAATC--------------------------
+cox1_3          -----------------------TAA--------TAATATTAATAATACT
+                                                                  
+
+cox1            TATTATATATTAATATTATTAATAATAATTTTAACTAATAATAAAGTTTT
+cox1_1          -----------------AAGAGTAATAACTTTAATTAATAATAAATTT--
+cox1_2          --------------------------------------------------
+cox1_3          AATAA--TATTTATAATATTAATAATAATATTAA-TAATAATAATAATA-
+                                                                  
+
+cox1            TATAGAAACTTTATAT---------------TATTATTTAATATTTAATT
+cox1_1          ---AGAA-CT----AC---------------TAGTAAATATAATCAGATT
+cox1_2          --------------------------------------------------
+cox1_3          ---------------TTAATAATAATTATATT--------------AAT-
+                                                                  
+
+cox1            TTCAATTAATATCTCCTTTTGGGGTTCCGGTCCCTGGTCCGGCCCCCGAA
+cox1_1          ATTAA-TAATATAT----TTG--------------------------CTC
+cox1_2          --------------------------------------------------
+cox1_3          ----AATAGTATTCCC---TGCGGTTCATATCCACAA---GGAAGATGAA
+                                                                  
+
+cox1            ACTAAAGATATTAAGAATTTATATGAATCAATTATAAATAA------TTA
+cox1_1          ATCCTAGATTTAAAGAATTTA-------------------------GTAA
+cox1_2          --------------------------------------------------
+cox1_3          CCGCAGGG---TCAGAATT-CTAT-------------AAAATGTTATTTG
+                                                                  
+
+cox1            TATTAATATTTTAAATAAATATCTTATTAATATTAATAAAGATAATATTA
+cox1_1          AACTATTACTTTA------------------------------GGTTTAA
+cox1_2          --------------------------------------------------
+cox1_3          TAGGATTATTTG-----------ATAGTAATGGTAATA---TTCAAATTA
+                                                                  
+
+cox1            ATAAATTAAAATTTTTAGATAA----------------------------
+cox1_1          ATTCAAATAATAATTTAAATAATCATTGGCTAGCTGGATTCTCAGATGCT
+cox1_2          ---ATTGAAGAT--CTCTTAAT----------------------------
+cox1_3          ATAAATATAAAT--CTAAATAT----------------------------
+                        *      *    *                             
+
+cox1            ------------------------------------------TTATACTG
+cox1_1          GATGCTAGTTTTCAGATTAAAATTTTAAATAGGGACAAAAAAATAGAAGT
+cox1_2          ------------------------------------------TTACAATT
+cox1_3          ------------------------------------------TTACAATT
+                                                           ** *   
+
+cox1            AAGAAGAAAAAGGTTATTATTTATCTG-GATTATTTGAAGGAGATGGTAA
+cox1_1          TCG---------------------ATTGAACTATC-AAAT-AGATCAAAA
+cox1_2          TAG---------------------ATT-AGTAATT-AAATTAAAAAATTT
+cox1_3          TAG---------------------ATT-AATTATT-AAATTAAATAATAA
+                  *                      *      **   **  * *      
+
+cox1            TATTTATACGAGATGTTTTTCAATTACTTTTTCTTTAGAAGATGTTTTAT
+cox1_1          AA-----AAGAGTA-------------------------TCTT------T
+cox1_2          AG-----AACTTAA-------------------------TTTTAATATAT
+cox1_3          TA-----AAGAGAA-------------------------TATTAATATAT
+                       *                                  *      *
+
+cox1            TAGCTAATTATTTATGTCTTTATTTTAAAATTGGTCATATTACAGCTAAA
+cox1_1          TGAGTTTA-ATTAA--AGATAATTT-AGGT--GGTAATATAG-------G
+cox1_2          TACTTAAT-TTAAG--TAATCATTT-AGGC--GGTAATATTA-------A
+cox1_3          TAAATAAT-ATTAA--ACATTATTT-AAAA--GGTAATATTA-------A
+                *   *     *        * **** *     *** ****          
+
+cox1            T-ATAATTCTAATAAAGAATTAACAGCTGTTAAATGAAATATTATAAAAA
+cox1_1          CTA-----TCGA-AA-AAGTCA-----AG--ATACTTA---TTATTATGG
+cox1_2          A-A-----TTCTAAC-TAATTT-----TGTATTATGAG---TATTAAATG
+cox1_3          T-A-----TTAATAA-TAATTA-----TGTAATATGAA---TTATAAATG
+                  *          *   * *        *    *       *  * *   
+
+cox1            AAAAAGAACAAGAAGTATTTA------TAAA-------------------
+cox1_1          TT-----CT----------ACTAGTTTTGGTTCAGCTAAAAAAGTTAT--
+cox1_2          AT-----AGTAAAACAATTAT-----ACTATTTATTTCAA-TATTTAAAA
+cox1_3          AT-----ATAAAAAATATTAA------TAATTTAATTAAATTATTTAATA
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          ---------TAATTATTTTGATAA--------------TTATCATTTGCT
+cox1_2          AATATCCATT---------ATTAACAGAACATAAAAGATTA---------
+cox1_3          AATATCCATT---------AATAACTATAAATAAAAAATTA---------
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          ATCTTCTAAATATATTAGCTATTTAAAATGAAGAAAAGCTTATCTTATTA
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          TTCAAGAAAATAAACATTTAACAGAATCAGGACTTTCTCAAATAAAAAAA
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          CCTCATCCCTATCGGAAGAATATTAATTAGATTTGTTGAGATTTAA-AAT
+cox1_2          -----------------------CAATTAGCTTTTATAAAATCTATATAT
+cox1_3          -----------------------CAATTAGCATTTATAAAATCTATATAT
+                                                                  
+
+cox1            ------------------------TTATATTAATGGTAAATTATTAACAT
+cox1_1          -AAAGTCCTAACAAGGGT--------------------------------
+cox1_2          GAAATTTATAAAAAAGATAAAAAATTAGC-----TTTAAATT---TATAT
+cox1_3          TATATTTATAAAAATAATAGAAATTTAGC-----AATAAAT---TTATAT
+                                                                  
+
+cox1            ATAAAAGATATGATCAATATTTTAAATATAATTTTAATAATCGTTTAAAT
+cox1_1          --------------------------------------------------
+cox1_2          ATAAATGATAGAAA-----TAATAAATTTAATCCTAA------TTTATAT
+cox1_3          TTAAAAGATAGAAA-----TAATAAATATAATCCTAA------TTTATAT
+                                                                  
+
+cox1            ATTAAATTATTAAAACCTAAAGAATTTGATTTACTATTAAATCCTTGATT
+cox1_1          --------------------------------------------------
+cox1_2          -TTAAAATATTATAATATAAA-----------------------------
+cox1_3          -AAATATTATAAAGATATAAA-----------------------------
+                                                                  
+
+cox1            AACAGGTTTTAATGATGCTGATGGTTATTTTTATCTAGGTTTTCAAAAAC
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            ATAAAAATAGTCAATGATTAAAATTTCATTTAGAATTATCACAAAAAGAT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AATTATATTTTAGATATTATTAAAAAATATTTTAAACTTGGAGGTATTTT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            AAAAAGAGATTATAAATCTGGTGCTACAG---------------------
+cox1_1          --------------------------------------------------
+cox1_2          ------------------TTATACATTAATAAATAATTATTCTTCTATTA
+cox1_3          ------------------TTATACTAAAATTAATTATTTTTCCCCCGCGA
+                                                                  
+
+cox1            -CTTATATTTATAAAGCTCAATCATCAAAAGCTATAAAACCTTTTATTGA
+cox1_1          --------------------------------------------------
+cox1_2          TT---------------------------TATCCT---------------
+cox1_3          AC---------------------------TTCCATAAAAAGTTC----GC
+                                                                  
+
+cox1            ATATTTTAATAATTATCAACCATTAAGTCTTAGAAGATATAAACAATATT
+cox1_1          --------------------------------------------------
+cox1_2          --------------------AATTTTAAATATATTGACAATACTAATCTA
+cox1_3          GGGAATTAA----------------TATTAATATTAATATTAATAATAAT
+                                                                  
+
+cox1            TATTATTAAATATTGCTTACTTATTAAAATTAAATAAATTACATATATTA
+cox1_1          --------------------------------------------------
+cox1_2          TTT------------------GAATATCATTATTTTA---ATAGTTGATT
+cox1_3          TAT------------------AATCATAATTATATTA---ATGTATGATT
+                                                                  
+
+cox1            CTTAATTCTTTATTAATATTAAAAGAATTGATATTATTACAAAGTGTTAA
+cox1_1          ------------------ATAAAGCT--TTTGAGTGTTAAAAAGAA-TAA
+cox1_2          TAGTG-GTTTTACTGAATCTGAAGGTTGTTTTGTAAATAGAACTAG-TAA
+cox1_3          TTTAG-GTTTTATTGAAAATAAAGGTAAATTTATTATTAGAAAGAA-TAA
+                                   * **              ** **     ***
+
+cox1            AAATATATCTTTAGAAATAAAAAA-TGAATTAAATAATAGAGTTAAAATT
+cox1_1          ------ATCACC--------------------------------------
+cox1_2          AGATTATTCATT------TATGATTGCACA-AAATGAT----------AA
+cox1_3          TAATAATTCATT------TTTATT-TTATATAAATGAT----------AA
+                       **                                         
+
+cox1            ATTATTAATAAACTTCATTATAACAATATCGAATAATGATAATATTAAAG
+cox1_1          --------------------------------------------------
+cox1_2          AAAGTTAATAGAATTTA-TTAAG--------AATTATTTTCAAATTC-TT
+cox1_3          ACATTTAATAGAATTCT-TAAAA--------AATTATTTTAATATTA-AG
+                                                                  
+
+cox1            AGTAAAATTCTTAAAGTGTTAATTAAATAATATTCTTTTTTTTATGACTT
+cox1_1          --------------------------------------------------
+cox1_2          AATATT----TTAAGATTAG--TT-AAAAATCTA----------------
+cox1_3          AATAAA----TTAATATATA--AA-AATAATATA----------------
+                                                                  
+
+cox1            ACTACGTGGTGGGACATTTTCGAGCGGTCTGAAAGTTATCATAAATAATA
+cox1_1          ------TTTTGGGTGATTTT---------------TTTTCAT--------
+cox1_2          ------------TATGTATTA--GAAACA-------TATAGAAAAGATAA
+cox1_3          ------------TATATTTTA--GAGGTA-------TATAATAAATATTA
+                                * **                * *           
+
+cox1            TTTACCATATAATAATGGATAAATTATA--TTTTTAT-------------
+cox1_1          -TAACC------AAAATTTATTGTTATA--TTTTAATTATGCCAGCTTTC
+cox1_2          TTT---------AAAATTATTTATTAATTTTTTTAAT-------------
+cox1_3          TAT---------TAATATATTTATTAAATTTTTTAAT-------------
+                             **        ***    **** **             
+
+cox1            ------------------CAATATAAGTCTAATTACAAGTGTATTAAAAT
+cox1_1          GGTGTTGTTAGTCACATTATTCCTAG-----TTTA---GCTCAT------
+cox1_2          ------------------AAATATAA-----ATTACAAGGTAAT------
+cox1_3          ------------------AAATATAA-----TTTACAAGGTTAT------
+                                       **       ***   *   **      
+
+cox1            GGTAACATA---------AATATGCTAAGCTGTAATGACAAAAGTATCCA
+cox1_1          --------AAACCTATT-------T-------------------------
+cox1_2          --------AAATTAAATCAATTTAA-------------------------
+cox1_3          --------AAATATATTGAATATAT-------------------------
+                        *                                         
+
+cox1            TATTCTTGACAGTTATTTTATATTATAAAAAAAAA---GATGAAGGAACT
+cox1_1          ------------------TC-----GGT-AAAGAA---GG--TA------
+cox1_2          ------------------TT-----GTTGAAAAAATTATATTAA------
+cox1_3          ------------------TA-----AATGAAAAAA---AATAAA------
+                                  *          *** **        *      
+
+cox1            TTGACTGATCTAATATGCTCAACGA--AAGTGAATCAAATGTTATAAAAT
+cox1_1          -------------TG------CT----TTGGG--CT--ATGTT-------
+cox1_2          -------------TA------ATAAATAAGTG--TC--ATGTTGTCAATT
+cox1_3          -------------TA------TTTA--AAGTG--TC--ATGTAGTAAATT
+                             *               * *      ****        
+
+cox1            TACTTACACCACTAATTGAAAACCTGTCTGATATTCAATTATTATTTATT
+cox1_1          ------------------------------------AAGTATT-------
+cox1_2          CACT-------ATAAT--------------------AA------------
+cox1_3          CACT-------ATCT--------------------TAATTAT-------C
+                                                    **            
+
+cox1            ATTATA--TAATTATA-----------TAATAATA-----AATAAAATGG
+cox1_1          GCTTTATTAGGATTAATGGTATGGTCTCA---TCA-----CTTATTC---
+cox1_2          ----------------------------A---ATATTTTAAA--------
+cox1_3          TTTATACCCCCCCCCC-----------CA---ACA-----CCTATAA-GG
+                                            *     *               
+
+cox1            TTGATGTTATGTATTGGAAATGAGCATACGATAAATCATATAACCATTAG
+cox1_1          --------------------------------------------------
+cox1_2          ------------------------TA--TTTTATTGGTTATATTA-----
+cox1_3          ----TGTTG--GGGGGGGAATGA-TA--TATTAAGGGTTATATTTTTTTT
+                                                                  
+
+cox1            TAATATAATTTGAGAGCTAAGTTAGATATTTACGTATTTATGATAA----
+cox1_1          ------------ACAGTTGGTTTAGATGTT-----------GATACTAGA
+cox1_2          -AATATAAT---ATAGCTAACGATGAAATCT---TATTTATGAA------
+cox1_3          TAATAA-AT---ATAGCTAACGAAGAAATCT---TATATAAATA------
+                            * ** *      **  *                     
+
+cox1            ---------------------AA-CAGAATAAACCCT----ATAAATTAT
+cox1_1          GCTTATTTCAGTGCTGCAACTATGGTTATTGCAAT---------------
+cox1_2          ---------------------GATCATAATGTAATCTTTTTTTT------
+cox1_3          ---------------------AA-TTTAATGTAATTT----ATA------
+                                           * *  *                 
+
+cox1            TATTATTAATAATAAAAAATAATAATAATACCAATATATATATTATTTAA
+cox1_1          --------------------------------------------------
+cox1_2          --------------------------------------------------
+cox1_3          --------------------------------------------------
+                                                                  
+
+cox1            TTTATTATTATTATATTAATAAAATTTAATATATATTATAAATAATTATT
+cox1_1          ------------------------TCCAACAGGTATTA------------
+cox1_2          ------------------------TATAATAAATA---------------
+cox1_3          ------------------------TACTACAATTA---------------
+                                        *   * *  **               
+
+cox1            GGATTAAGAAATATAATATTTTATAGAAATTTTCTTTA----------TA
+cox1_1          --------AAATCTTCAGTTGGTTA-------------------------
+cox1_2          --AATAAG----ATAATATC--GTGGGAAC---CTTTA----------TA
+cox1_3          --TATAAG----ACAATTTC--GTGGTAAC---CATTATTATATTTTATA
+                                  *    *                          
+
+cox1            T-TTAGAGGGTAAAAGATTGTAT------AAAAAGCTAATGCCA------
+cox1_1          ----------------------GCTACTTTAACAGGTGGTGCAA------
+cox1_2          T-ATAAAGGA-----CACCGTAG------AG---ACTACATGTGAAT---
+cox1_3          TAATAATGGG-----AACTGTAG------AG---ACTATACGTGAATAAT
+                                                    *             
+
+cox1            ----TATTGTAATGATATGGATAAGA--------------ATTATTATTC
+cox1_1          ----TA--------CAATGGTCAAGAGTACCTATGTTATAT---------
+cox1_2          ------------------T------A--------------AATATTAT--
+cox1_3          AATATA--------TAATTATCAATA--------------T---------
+                                         *                        
+
+cox1            TAAAGATGAAAATCTGCTAACTTATACTATAGGTGATATG----------
+cox1_1          -------------------------GCTATTGG-----------------
+cox1_2          ----------AGTTTA----------------------------------
+cox1_3          -------------------ATATATAATATATATAATATGTATTATATTT
+                                                                  
+
+cox1            --------------------------------------------------
+cox1_1          --------------------TTTCTTAATCTTATTCACAATTGGTGG---
+cox1_2          ----CAAATTT--------------------------------------T
+cox1_3          CCCGCGAATTTCCCTTAAAGT---------------GGAATTCGCGGGAT
+                                                                  
+
+cox1            -CCTATCTTTATTTATATATA-TATTATTATTATTAATAATAAAAAAAAA
+cox1_1          -----------------------AT-------------------------
+cox1_2          ACAC----TTGGTTA----TAATATT------------------------
+cox1_3          ACATATA-TTGGTT----ATA-TATT------------------------
+                                       **                         
+
+cox1            AATTAAAAAAAAGATA----GGAGGTTTATA---TATAACTGATAAATAT
+cox1_1          ---TAA------------CAGGTG--TTATATTAAGTAA---TTCA----
+cox1_2          --TAAA----GATATAGTCCAATCCTTT--A---CGTGAG---TAAA---
+cox1_3          -ATTAA----GACATAGTCCAATCCTTT--A---TGTAAA---TAAAG--
+                    **                    **  *     * *    * *    
+
+cox1            TTATTATATTATTTTTTTTTATAATAA------ATATTAAAAGATATTGC
+cox1_1          ---------------------------------GTATTA---GATATCGC
+cox1_2          ----------------------------------G-TTAA----------
+cox1_3          --------------------------AATATAAACCCCGGACGGCATCGT
+                                                                  
+
+cox1            GTGAGCCGTATGCGATGAAAGTCGCACGTACGGTTCTTACCGGGGGAAAA
+cox1_1          TTT--CC--AT-----------------------------------GATA
+cox1_2          ---------------------------------------------ATAGA
+cox1_3          CCGA-CCGTATG--------GTCGGACGAGCCGT-----CC-GGGGAAGA
+                                                               * *
+
+cox1            CTTGTAAAGGTCTACC-TATCGGGATACTATGTATTATCAATGGGTGCTA
+cox1_1          CTTATTTCGTTGTAGCTCACT--TCCATTACGTTCTGTCAATGGGTGCAT
+cox1_2          CTTATTATGTTGTAGGACATT--TTCATTATGTATTATCTATAGGAGCCG
+cox1_3          CTTATTATGTAGTAGGACATT--TCCATTATGTATTATCAATGGGTGCTA
+                *** *   *   **    *       * ** **  * ** ** ** **  
+
+cox1            TTTTCTCTTTATTTGCAGGATACTATTATTGAAGTCCTCAAATTTTAGGT
+cox1_1          TATTTGGTCTTTGTGGTGCATACTACTATTGGAGTCCAAAAATGTTTGGA
+cox1_2          TATTCTCATTATTTGCAGGATATTATTATTGAAGTCCTCAAATTTTAGGT
+cox1_3          TTTTCTCATTATTTGCAGGATATTATTACTGAAGTCCTCAAATTTTAGGA
+                * **     * * **  * *** ** ** ** *****  **** ** ** 
+
+cox1            TTAAACTATAATGAAAAATTAGCTCAAATTCAATTCTGATTAATTTTCAT
+cox1_1          TTAATGTACAATGAAACTCTAGCTTCAATCCAATTCTGGATTTTATTCAT
+cox1_2          TTATATTATAATGAAAGATTATCACAAATTCAATTCTGATTAATTTTTGT
+cox1_3          TTATATTATAATGAAAAATTAGCACAAATTCAATTCTGATTAATTTTTGT
+                ***   ** *******   ** *   *** ********  *  * **  *
+
+cox1            TGGGGCTAATGTTATTTTCTTCCCAATGCATTTCTTAGGTATTAATGGTA
+cox1_1          AGGTGTTAATATTGTATTCGGTCCTCAACATTTCTTAGGATTAAATGGTA
+cox1_2          AGGTGCTAATATGGTATTCTTACCTATGCATTTTTTAGGTATTAATGGTA
+cox1_3          AGGAGCTAATGTTATTTTCTTACCTATGCATTTCTTAGGAGTAAATGGTA
+                 ** * **** *  * ***   **    ***** *****  * *******
+
+cox1            TGCCTAGAAGAATTCCTGATTATCCTGATGCTTTCGCAGGATGAAATTAT
+cox1_1          TGCCTAGAAGAATACCAGATTATCCAGATGCATTTGTGGGATGGAATTTT
+cox1_2          TGCCTAGAAGAATTCCTGATTATCCTGATGCTTTTGCTGGTTGAAATTAT
+cox1_3          TGCCTAGAAGAATTCCTGATTATCCTGATGCTTTTGCAGGTTGAAATTAT
+                ************* ** ******** ***** ** *  ** ** **** *
+
+cox1            GTCGCTTCTATTGGTTCATTCATTGCACTATTATCATTATTCTTATTTAT
+cox1_1          GTATCAAGTATTGGTTCAGTAATTTCTATTCTTTCATTATTCCTATTTAT
+cox1_2          ATTGCTTCAATTGGATCATTTATTTCAATAATTTCATTATTATTATTTAT
+cox1_3          GTAGCTTCAATTGGTTCAATTATTGCTGTATTCTCATTATTCTTATTTAT
+                 *  *    ***** *** * *** *  *  * ********  *******
+
+cox1            CTATATTTTATATGATCAATTAGTTAATGGATTAAATAATAAAGTTAATA
+cox1_1          GTATGTTATGTATGATCAATTT---A---CATCAAATAGAGTGGTTAA-A
+cox1_2          TTATATTTTATATGATCAATTATTTAATGGATTATCTAATAAAATTAATA
+cox1_3          CTATATTTTATATGATCAATTAGTTAATGGATTAGAAAATAAAGTTAATA
+                 *** ** * ***********    *    ** *   *      **** *
+
+cox1            ATAAATCAGTTATTTATAATAAAGCACCTGATTTTGTAGAATCTAATCTT
+cox1_1          ACAAATCCTT-ATTT--AATCC-CTAGCT-ATTTTGATG---ATAATGTA
+cox1_2          ATAAATCAGTAGTATATAATAAAGCACCTGACTTTATGGAATCTAATAAA
+cox1_3          ATAAATCAGTAATTTATAATAAAGGACCTGATTTTGTTGAATCAAATCAA
+                * *****  *  * *  ***     * ** * ***   *     ***   
+
+cox1            ATCTTTAAT-TTAAATAC--AGTTAAATCTTCATCTATCGAATTCTTATT
+cox1_1          ATCTTCGTAAATGAAAAATTAGGGGTAGCTCAATCAATAGAATGGTTACT
+cox1_2          TTATTTAAT-ATGAATAA--TATTAAAACATCATCATTAGAATTCTTATT
+cox1_3          ATCTTCGCA-ACTAATAA--AATTAAATCTTCATCAATTGAATTCTTATT
+                 * **        ** *         * *   ***  * ****  *** *
+
+cox1            AACTTCTCCACCAGCTGTACACTCATTTAATACACCAGCTGTACAAT---
+cox1_1          ACATTCACCAGTACACGAACACGCATTTAATACATTACCTACAAAAAGTA
+cox1_2          AACATCACCACCAGCTGTACATTCATTTAATACACCAGCTGTACAAT---
+cox1_3          AACTTCTCCACCAGCTGTTCATACATTTAATACTCCAGCTGTACAAT---
+                *   ** ***  *   *  **  **********   * **  * **    
+
+cox1            CTTAA
+cox1_1          TTTAA
+cox1_2          CATAA
+cox1_3          CATAA
+                  ***
+
+
+
